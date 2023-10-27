@@ -5,4 +5,6 @@ https://docs.google.com/document/d/1TnaNIsiu05eEKETF_pwgdsZpi3Cz1tbeF1E89MnPqfY/
 Степик:<br>
 https://docs.google.com/document/d/1Sk31b7Uy5kRIALVm4xY2qHvZpQb_G8b0aVTJnAjcQbM/edit?usp=sharing<br>
 Python:<br>
-https://docs.google.com/document/d/1SLeOJRKDL24px_tux71JdTCUkvaXTJVDulopJzdsuz4/edit?usp=sharing
+https://docs.google.com/document/d/1SLeOJRKDL24px_tux71JdTCUkvaXTJVDulopJzdsuz4/edit?usp=sharing<br>
+RedOc:<br>
+
