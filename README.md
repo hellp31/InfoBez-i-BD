@@ -8,3 +8,4 @@ Python:<br>
 https://docs.google.com/document/d/1SLeOJRKDL24px_tux71JdTCUkvaXTJVDulopJzdsuz4/edit?usp=sharing<br>
 RedOc:<br>
 https://docs.google.com/document/d/1H_JmjDdubXYRDnAyAMfATaFmokwyEh9nTIy__TL6goE/edit?usp=drivesdk
+Практика:https://drive.google.com/drive/folders/1cNoREZGjLfe6rQPQ1V6gkA5THtQrLv5N
