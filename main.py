@@ -267,5 +267,143 @@ if (a-1 <= c <= a+1) and (b-1 <= d <= b+1):
 else:
     print('NO')
 
+
+# 35 задание:
+a=int(input())
+b=int(input())
+if a>b:
+    print('NO')
+elif a<b:
+    print('YES')
+else:
+    print("Don't know")
+
+# 36 задание:
+a=int(input())
+b=int(input())
+c=int(input())
+if (a==b or b==c or a==c) and not(a==b==c):
+    print('Равнобедренный')
+elif a==b==c:
+    print('Равносторонний')
+else:
+    print('Разносторонний')
+
+# 37 задание:
+a=int(input())
+b=int(input())
+c=int(input())
+if (a>b>c) or (c>b>a)  :
+    print(b)
+elif (c>a>b) or (b>a>c):
+    print(a)
+elif (b>c>a) or (a>c>b):
+    print(c)
+
+# 38 задание:
+a=int(input())
+if (a%2!=0 and 0<a< 8) or (a%2==0 and 8<=a<=12):
+    print('31')
+elif (a%2==0 and 2<a<7 ) or (a%2!=0 and 8<a<12):
+    print('30')
+elif a==2:
+    print('28')
+
+# 39 задание:
+a=int(input())
+if 0<a<60:
+    print('Легкий вес')
+elif 60<=a<64:
+    print('Первый полусредний вес')
+elif 64<=a<69:
+    print('Полусредний вес')
+
+# 40 задание:
+a=int(input())
+b=int(input())
+c=input()
+if b==0 and c=='/':
+    print('На ноль делить нельзя!')
+elif c=='*':
+    print(a*b)
+elif c=='-':
+    print(a-b)
+elif c=='+':
+    print(a+b)
+elif c=='/':
+    print(a/b)
+else:
+    print('Неверная операция')
+
+# 41 задание:
+a=input()
+b=input()
+if (a=='красный' and b=='синий') or (a=='синий' and b=='красный') :
+    print('фиолетовый')
+elif (a=='красный' and b=='желтый') or (a=='желтый' and b=='красный'):
+    print('оранжевый')
+elif (a=='синий' and b=='желтый') or (a=='желтый' and b=='синий'):
+    print('зеленый')
+elif (a == 'синий' or a == 'красный' or a == 'желтый') and a == b:
+    print(a)
+else:
+    print('ошибка цвета')
+
+# 41 задание:
+a=int(input())
+if a==0:
+    print('зеленый')
+elif 1<=a<=10:
+    if a%2==0:
+        print('черный')
+    else:
+        print('красный')
+elif 11<=a<=18:
+    if a%2==0:
+        print('красный')
+    else:
+        print('черный')
+elif 19<=a<=28:
+    if a%2==0:
+        print('черный')
+    else:
+        print('красный')
+elif 29<=a<=36:
+    if a%2==0:
+        print('красный')
+    else:
+        print('черный')
+else:
+    print('ошибка ввода')
 '''
+# 42 задание:
+a=int(input())
+b=int(input())
+c=int(input())
+d=int(input())
+if c < a:
+    if d < a:
+        print('пустое множество')
+    elif d == a:
+        print(d)
+    elif a < d <= b:
+        print(a, d)
+    elif d > b:
+        print(a, b)
+elif c == a:
+    if d <= b:
+        print(c, d)
+    else:
+        print(c, b)
+elif c < b:
+    if d <= b:
+        print(c, d)
+    else:
+        print(c, b)
+elif c == b:
+    print(c)
+else:
+    print('пустое множество')
+
+
 
