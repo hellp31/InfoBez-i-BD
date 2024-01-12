@@ -11,3 +11,4 @@ https://docs.google.com/document/d/1H_JmjDdubXYRDnAyAMfATaFmokwyEh9nTIy__TL6goE/
 Практика:<br>
 https://drive.google.com/drive/folders/1cNoREZGjLfe6rQPQ1V6gkA5THtQrLv5N<br>
 База данных:<br>
+https://docs.google.com/document/d/1PuLNcuh1fKKpHsJLVwvN9yaXz_hrqquGgwvRyFEDJAA/edit?usp=sharing
